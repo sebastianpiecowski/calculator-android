@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.a202268.kalkulator">
+    package="com.example.seba.myapplication">
 
     <application
         android:allowBackup="true"

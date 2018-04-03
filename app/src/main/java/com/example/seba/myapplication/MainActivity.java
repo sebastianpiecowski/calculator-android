@@ -1,4 +1,4 @@
-package com.example.a202268.kalkulator;
+package com.example.seba.myapplication;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
         Intent intent=new Intent(this, Main4Activity.class);
         startActivity(intent);
     }
+
     public void exit(View view){
         finishAndRemoveTask();
     }

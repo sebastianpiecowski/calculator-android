@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.a202268.kalkulator.Main4Activity">
+    tools:context=".Main4Activity">
 
     <TextView
         android:id="@+id/textView"

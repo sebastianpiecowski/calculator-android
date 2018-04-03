@@ -1,4 +1,4 @@
-package com.example.a202268.kalkulator;
+package com.example.seba.myapplication;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
